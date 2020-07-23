@@ -426,7 +426,7 @@ h6 table {
 }
 
 .about-top .about-block__img {
-  background: url("/img/about-top.png") no-repeat;
+  background: url("../img/about-top.png") no-repeat;
   background-size: cover;
 }
 
@@ -434,7 +434,7 @@ h6 table {
   margin-bottom: 0;
 }
 .about-bottom .about-block__img {
-  background: url("/img/about-bottom.png") no-repeat;
+  background: url("../img/about-bottom.png") no-repeat;
   background-size: cover;
 }
 
@@ -455,7 +455,7 @@ h6 table {
 }
 
 .news {
-  background: url("/img/newx-background.png") no-repeat;
+  background: url("../img/newx-background.png") no-repeat;
   background-size: cover;
   padding: 120px 10%;
 }
@@ -527,19 +527,19 @@ h6 table {
 }
 
 .news-photo-first {
-  background: url("/img/news-first.png") no-repeat;
+  background: url("../img/news-first.png") no-repeat;
   background-size: cover;
   height: 200px;
 }
 
 .news-photo-second {
-  background: url("/img/news-second.png") no-repeat;
+  background: url("../img/news-second.png") no-repeat;
   background-size: cover;
   height: 200px;
 }
 
 .news-photo-third {
-  background: url("/img/news-third.png") no-repeat;
+  background: url("../img/news-third.png") no-repeat;
   background-size: cover;
   height: 200px;
 }
@@ -597,7 +597,7 @@ h6 table {
   margin-right: 1%;
 }
 .gallery .left-block {
-  background: url("/img/gallery-first.png") no-repeat;
+  background: url("../img/gallery-first.png") no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -624,7 +624,7 @@ h6 table {
 }
 
 .right-block__photo:nth-child(1) {
-  background: url("/img/gallery-second.png") no-repeat;
+  background: url("../img/gallery-second.png") no-repeat;
   background-size: cover;
   background-position: center;
   margin-right: 2%;
@@ -632,21 +632,21 @@ h6 table {
 }
 
 .right-block__photo:nth-child(2) {
-  background: url("/img/gallery-third.png") no-repeat;
+  background: url("../img/gallery-third.png") no-repeat;
   background-size: cover;
   background-position: center;
   margin-bottom: 2%;
 }
 
 .right-block__photo:nth-child(3) {
-  background: url("/img/gallery-fourth.png") no-repeat;
+  background: url("../img/gallery-fourth.png") no-repeat;
   background-size: cover;
   background-position: center;
   margin-right: 2%;
 }
 
 .right-block__photo:nth-child(4) {
-  background: url("/img/gallery-last.png") no-repeat;
+  background: url("../img/gallery-last.png") no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -736,7 +736,7 @@ h6 table {
 }
 
 .footer {
-  background: url("/img/footer-back.png") no-repeat;
+  background: url("../img/footer-back.png") no-repeat;
   background-size: cover;
   padding: 120px 23%;
 }
@@ -982,7 +982,7 @@ h6 table {
     margin-bottom: 2%;
   }
   .gallery .left-block {
-    background: url("/img/gallery-first.png") no-repeat;
+    background: url("../img/gallery-first.png") no-repeat;
     background-size: cover;
     background-position: center;
   }
