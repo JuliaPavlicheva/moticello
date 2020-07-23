@@ -239,7 +239,7 @@ h6 table {
 }
 .header {
   position: relative;
-  background: url("/img/header-back.png") no-repeat;
+  background: url("../img/header-back.png") no-repeat;
   background-size: cover;
   padding: 20% 3%;
   color: #FFFFFF;
